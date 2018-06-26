@@ -1,0 +1,4 @@
+[
+  {"name": "Mathew", "phone": "555-1212", "age": 30, "avatar":"api/cheese-cake.jpeg"},
+  {"name": "Rose", "phone": "555-9876", "age": 25, "avatar":"api/cream-cake.jpeg"}
+]
